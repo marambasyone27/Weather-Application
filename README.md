@@ -1,6 +1,8 @@
-# Weather App 🌤️
+# 🌤️ Weather App
 
-A Flutter application that displays real-time weather information for different cities. It shows temperature, weather conditions, and has a simple, modern UI.
+A beautiful Flutter application that displays real-time weather information for cities around the world. With a clean design and smooth experience, users can view current temperatures, weather conditions, and more.
+
+---
 
 ## 📱 Screenshots
 
@@ -11,7 +13,7 @@ A Flutter application that displays real-time weather information for different 
 ![Search Screen](screenshots/Search%20screen.png)
 
 ### ☀️ Sunny 
-![Sunny Space](screenshots/sunny%20.png)
+![Sunny](screenshots/sunny%20.png)
 
 ### 🌧️ Heavy Rain
 ![Heavy Rain](screenshots/Heavy%20rain.png)
@@ -19,16 +21,31 @@ A Flutter application that displays real-time weather information for different 
 ### 🌦️ Patchy Rain
 ![Patchy Rain](screenshots/Patchy%20rain.png)
 
+---
+
+## 🛠️ Built With
+
+- 💙 **Flutter** – For building the cross-platform UI
+- 🔁 **Flutter Bloc** – For state management
+- 🌐 **Dio** – For handling HTTP requests
+- ☁️ **[WeatherAPI.com](https://www.weatherapi.com/)** – The weather data provider
+
+---
+
 ## 🔑 Features
 
-- View current temperature and weather conditions
-- Search by city name
-- Display weather icons and backgrounds
-- Simple and clean user interface
+- Real-time weather updates
+- City-based search functionality
+- Custom icons and background changes
+- Error handling for wrong cities
+- Responsive & modern UI
+
+---
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/weather_app.git
+To run this project locally:
 
+1. **Clone the repo**:
+```bash
+git clone https://github.com/marambasyone27/weather_app.git
