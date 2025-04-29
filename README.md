@@ -4,23 +4,20 @@ A Flutter application that displays real-time weather information for different 
 
 ## 📱 Screenshots
 
+### 🟡 Splash Screen
+![Splash Screen](screenshots/splash%20screen.png)
+
+### 🔍 Search Screen
+![Search Screen](screenshots/Search%20screen.png)
+
+### ☀️ Sunny 
+![Sunny Space](screenshots/sunny%20.png)
+
 ### 🌧️ Heavy Rain
 ![Heavy Rain](screenshots/Heavy%20rain.png)
 
 ### 🌦️ Patchy Rain
 ![Patchy Rain](screenshots/Patchy%20rain.png)
-
-### 🔍 Search Screen
-![Search Screen](screenshots/Search%20screen.png)
-
-### 🟡 Splash Screen
-![Splash Screen](screenshots/splash%20screen.png)
-
-### ☀️ Sunny (with space)
-![Sunny Space](screenshots/sunny%20.png)
-
-### ☀️ Sunny (no space)
-![Sunny](screenshots/sunny.png)
 
 ## 🔑 Features
 
