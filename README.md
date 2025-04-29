@@ -33,12 +33,11 @@ A beautiful Flutter application that displays real-time weather information for 
 ---
 
 ## 🔑 Features
-
-- Real-time weather updates
-- City-based search functionality
-- Custom icons and background changes
-- Error handling for wrong cities
-- Responsive & modern UI
+- ✨ Discover real-time weather for any city you search.
+- 🎨 Temperature-responsive colors & dynamic themes.
+- ❄️ Feels-like, low, and high temps at a glance.
+- ⏳ Always shows the latest update time.
+- 🔍 Simple search & smooth navigation.
 
 ---
 
